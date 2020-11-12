@@ -14,8 +14,6 @@ for (var i = 0; i < numbers.length; i++) {
     console.log(message = "pareggio");
   }
 }
-message = message - message;
-console.log(message);
 // Stabilire il vincitore, in base a chi fa il punteggio più alto.
 // Prima di partire a scrivere codice poniamoci qualche domanda:
 // Che ci sia un array da qualche parte?
