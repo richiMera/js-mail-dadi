@@ -6,8 +6,6 @@ var userNumber = numbers[0]
 console.log(userNumber);
 var pcNumber = numbers[1]
 console.log(pcNumber);
-for (var i = 0; i < numbers.length; i++)
-
 if (userNumber > pcNumber) {
   console.log("user vince");
 } else if (userNumber < pcNumber) {
