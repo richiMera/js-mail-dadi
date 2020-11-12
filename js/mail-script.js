@@ -5,7 +5,7 @@ console.log(userMail);
 var access = false;
 for (var i = 0; i < mailList.length; i++) {
   console.log(mailList[i]);
-  if (userMail === mailList) {
+  if (userMail === mailList[i]) {
     access = true;
     console.log(access);
   }
